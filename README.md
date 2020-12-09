@@ -1,3 +1,3 @@
 # study-ver.2
 
-private chatting site
+private chatting service site
